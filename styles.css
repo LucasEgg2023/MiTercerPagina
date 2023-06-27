@@ -175,5 +175,7 @@ footer {
     padding: 20px;
     margin: 50px;
   }
-  
+  .greeting {
+   text-align: center;
+ } 
  
